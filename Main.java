@@ -11,7 +11,6 @@ import java.util.regex.Pattern;
 
 public class Main extends ListenerAdapter {
 
-    private final static String token = "NTY3Mjk3ODY0MDA3NjgwMDIx.XLRfgg.mJ0kJfZx3HYoNWrAWpmV3Y8lGVM";
     private final static String timerPattern = "(\\d{2})";
 
     private List<String> todos = new ArrayList<>();
